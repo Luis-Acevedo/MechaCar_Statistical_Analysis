@@ -3,7 +3,7 @@
 # Deliverable 1
 ## Linear Regression to Predict MPG
 
-![Linear_Reg_Sum]()
+![Linear_Reg_Sum](https://github.com/Luis-Acevedo/MechaCar_Statistical_Analysis/blob/main/Challenge/Pictures/Linear_Reg_Sum.png)
 
 - Using our t-values we can see that vehicle weight, spoiler angle, and AWD capabilities all give us non-random amount of variance when we compare against our mpg. This means as we change these variables on a car they are likely to affect the mpg of the car.
 
